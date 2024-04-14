@@ -2,12 +2,12 @@ import streamlit as st
 import openai
 from ml_backend import ml_backend
 
-st.title(" Email Generator App")
+st.title(" Email Generator App by Aman Gupta")
 
 
 st.markdown(""" 
 
-# About
+# About this App
  
 ## Play around with the sliders and text fields to generate your very own emails! 
 ## At the end, you can automatically send your email to a recipient via Gmail  
