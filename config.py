@@ -1,2 +1,2 @@
 # config.py
-OPENAI_API_Key = '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'
+OPENAI_API_Key = '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'
