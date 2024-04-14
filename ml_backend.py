@@ -2,7 +2,7 @@ import openai
 import config
 
 class ml_backend:
-    openai.api_key = config.OPENAI_API_Key
+    openai.api_key = "https://console.akeyless.io/targets?id=&name=%2FOpen+AI"
 
 
     def generate_email(self, userPrompt ="Write me a professionally sounding email", start="Dear"):
