@@ -1,5 +1,5 @@
 import openai
-import config
+
 
 class ml_backend:
     openai.api_key = "https://console.akeyless.io/targets?id=&name=%2FOpen+AI"
