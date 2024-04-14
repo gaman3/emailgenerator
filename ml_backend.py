@@ -1,5 +1,5 @@
 import openai
-import os
+import config
 
 class ml_backend:
     openai.api_key = config.OPENAI_API_Key
